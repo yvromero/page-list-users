@@ -6,7 +6,7 @@ URL: https://reqres.in/api/users?page=2
 
 ##### Crear una tabla con los usuarios
 
-##### Realizar los siguientes ejercicios 
+##### Realizar los siguientes ejercicios:
 
 // Crear una referencia al TBODY
 // Crear una variable para mantener la referencia
